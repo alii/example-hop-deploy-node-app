@@ -1,0 +1,14 @@
+{
+	"name": "example-hop-deploy-node-app",
+	"version": "1.0.0",
+	"main": "index.mjs",
+	"repository": "git@github.com:alii/example-hop-deploy-node-app.git",
+	"author": "Alistair Smith <hi@alistair.sh>",
+	"license": "MIT",
+	"scripts": {
+		"start": "node ."
+	},
+	"dependencies": {
+		"express": "^4.18.1"
+	}
+}
